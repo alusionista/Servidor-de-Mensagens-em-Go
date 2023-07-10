@@ -55,9 +55,3 @@ O servidor iniciará e ficará aguardando conexões na porta 8080.
 
 Contribuições são bem-vindas! Se você encontrar algum problema, tiver alguma sugestão ou quiser adicionar novos recursos, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-## Licença
-
-Este projeto está licenciado sob a [MIT License](LICENSE).
-```
-
-Você pode salvar esse conteúdo em um arquivo chamado `README.md` na raiz do seu projeto. Lembre-se de incluir o arquivo `LICENSE` caso queira utilizar a licença MIT mencionada no `README.md`.
